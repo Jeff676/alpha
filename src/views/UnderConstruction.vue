@@ -1,8 +1,8 @@
 <template>
     <div class=" w-full bg-grad flex flex-warp flex-column justify-content-center align-items-center"
         style="height: 95vh;">
-        <img src="@/assets/LOGO_XL_text-white.png" class="max-h-8rem text-white">
-        <h1 class="text-white">Esta Página está en construcción</h1>
+        <img src="@/assets/LOGO_XL_text-white.png" class="text-white w-9 md:w-5">
+        <p class="text-white lg:text-3xl sm:text-xs">Esta Página está en construcción</p>
     </div>
 </template>
 
